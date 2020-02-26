@@ -1,2 +1,2 @@
 
-var playlist = {adele : hello} 
+var playlist = {adele : hello}
